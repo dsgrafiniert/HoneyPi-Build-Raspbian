@@ -4,4 +4,5 @@ python3-rpi.gpio python3-smbus python3-setuptools python3-pip libatlas-base-dev 
 ntp git
 dnsmasq hostapd
 libopenjp2-7 libtiff5
+libjpeg-dev zlib1g-dev
 zip unzip
